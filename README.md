@@ -1,4 +1,5 @@
-## Olá, meu nome é Anderson =D
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=40&pause=1000&vCenter=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Anderson.;Tenho+16+anos.;Sou+estudante+de+Desenvolvimento+de+Sistemas.;Estou+matriculado+na+ETE-Ministro+Fernando+Lyra.)](https://git.io/typing-svg)
+
 <hr></hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonKFG)](https://github.com/anuraghazra/github-readme-stats)
