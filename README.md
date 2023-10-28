@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=40&duration=2000&pause=2000&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Anderson.;Tenho+16+anos.;Sou+estudante+de+Desenvolvimento+de+Sistemas.;Estou+matriculado+na+ETE-Ministro+Fernando+Lyra.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=40&duration=2000&pause=2000&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Anderson.;Tenho+17+anos.;Sou+estudante+de+Desenvolvimento+de+Sistemas.;Estou+matriculado+na+ETE-Ministro+Fernando+Lyra.)](https://git.io/typing-svg)
 
 <hr></hr>
 
