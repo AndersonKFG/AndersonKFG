@@ -16,5 +16,3 @@
   
 </div>
 <hr></hr>
-
-![Snake animation](https://github.com/OMestreO/OMestreO/blob/output/github-contribution-grid-snake.svg)
